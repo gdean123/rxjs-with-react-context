@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/gdean123/rxjs-with-react-context/issues"
   },
-  "homepage": "https://github.com/gdean123/rxjs-with-react-context#readme"
+  "homepage": "https://github.com/gdean123/rxjs-with-react-context#readme",
+  "devDependencies": {
+    "typescript": "^3.7.4"
+  },
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
 }
