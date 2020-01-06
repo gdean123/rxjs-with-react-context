@@ -1,0 +1,19 @@
+{
+  "name": "rxjs-with-react-context",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdean123/rxjs-with-react-context.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdean123/rxjs-with-react-context/issues"
+  },
+  "homepage": "https://github.com/gdean123/rxjs-with-react-context#readme"
+}
