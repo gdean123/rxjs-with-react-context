@@ -3,8 +3,12 @@ import { FunctionComponent, useContext, useEffect, useState } from 'react'
 import * as ReactDOM from 'react-dom'
 import { BehaviorSubject } from 'rxjs'
 
-interface State {
+interface State extends AppState {
   count: Count
+}
+
+interface AppState {
+  [name: string]: object
 }
 
 type StateStreams = {
